@@ -17,7 +17,7 @@ A modern, responsive Netflix clone application built with React, Vite, and Tailw
 
 ## 🎬 Live Demo
 
-**[View Live Application](https://netflix-clone-render.onrender.com)**
+**[View Live Application]([https://netflix-clone-render.onrender.com](https://netflix-anurag1.onrender.com/))**
 
 The application is deployed on Render and is ready to use. Check out the live demo to experience the full Netflix clone experience!
 
